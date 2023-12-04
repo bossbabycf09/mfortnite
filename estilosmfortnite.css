@@ -1,0 +1,12 @@
+body{background-color: #4D81DB;}
+table{background-color: #947C5D;width: 1000px;margin-left: auto;margin-right: auto;}
+td,th{border-style: solid;border-color: #000000;} 
+.principal{width: 600px;height: 500px;}
+th{font-size: 25px;font-family: Arial;}
+.logos{width: 50px;height: 50px;}
+.imamii{width: 250px; height: 100px;}
+
+.tit{font-size: 50px;font-family: "Arial black";}
+.mov{width: 1000px; height: 200px;}
+.let{font-size: 50px;font-family: "Arial black";}
+.imamii{width: 250px; height: 100px;}
